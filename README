@@ -24,4 +24,5 @@ clean.sh
     download
     priority
     upload
+    clean.sh
 
