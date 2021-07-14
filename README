@@ -18,5 +18,10 @@ clean.sh
 
 注意：
     运行上述脚本依赖expect，使用man expect查看是否安装
-
+    
+    修改有关home字段的相关文件目录，文件列表如下：
+    author.sh
+    download
+    priority
+    upload
 
