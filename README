@@ -15,10 +15,8 @@ clean.sh
     在已经免密码登陆的情况下，清除各个节点的授权文件
     不是免密码登陆，需要手动输入密码
     删除各个节点上的authorized_keys文件
+其他配置：
 
-注意：
-    运行上述脚本依赖expect，使用man expect查看是否安装
-    
     修改有关home字段的相关文件目录，文件列表如下：
     author.sh
     download
@@ -26,3 +24,5 @@ clean.sh
     upload
     clean.sh
 
+注意：
+    运行上述脚本依赖expect，使用man expect查看是否安装
